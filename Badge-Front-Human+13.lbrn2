@@ -31,7 +31,6 @@
         <maxPower Value="100"/>
         <maxPower2 Value="20"/>
         <speed Value="10"/>
-        <numPasses Value="2"/>
         <priority Value="1"/>
         <tabCount Value="1"/>
         <tabCountMax Value="1"/>
